@@ -1,11 +1,11 @@
 import React from "react";
 import './App.css';
-import Flow from './Components/Flow'
+import Main from "./Components/Main";
 
 function App() {
   return (
     <div>
-      <Flow />
+      <Main />
     </div>
   );
 }
